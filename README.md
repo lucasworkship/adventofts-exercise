@@ -770,4 +770,6 @@ type YieldedType<T> = T extends AsyncGenerator<infer U, any, any> ? U : never;
 ```
 
 
-# 15.
+# 15.[Jet Fuel Pricing](https://www.adventofts.com/events/2024/15)
+
+
